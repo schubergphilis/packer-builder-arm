@@ -21,3 +21,5 @@
 .packer_plugins
 packer_cache
 packer-builder-arm
+
+.vscode
